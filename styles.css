@@ -1,0 +1,3 @@
+body { font-family: 'Inter', sans-serif; }
+header { transition: all 0.3s; }
+button:hover { transform: scale(1.05); }
